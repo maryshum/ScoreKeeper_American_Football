@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Base layout dimensions -->
+    <dimen name="textSizeForScore">70sp</dimen>
+    <dimen name="PrimaryTextSize">20sp</dimen>
+    <dimen name="CardElevation">4dp</dimen>
+    <dimen name="FirstBlockMarginTop">16dp</dimen>
+    <dimen name="TeamNamesSideMargin">16dp</dimen>
+    <dimen name="TeamIconMarginTop">60dp</dimen>
+    <dimen name="TeamIconMarginSide">40dp</dimen>
+    <dimen name="cardViewMarginSide">30dp</dimen>
+    <dimen name="cardViewMarginTop">10dp</dimen>
+    <dimen name="cardViewMarginBottom">20dp</dimen>
+    <dimen name="cornerRadius">30dp</dimen>
+    <dimen name="buttonMarginSide">50dp</dimen>
+    <dimen name="buttonMarginSide2">240dp</dimen>
+    <dimen name="button1MarginTop">10dp</dimen>
+    <dimen name="button2MarginTop">80dp</dimen>
+    <dimen name="button3MarginTop">150dp</dimen>
+    <dimen name="buttonMarginBottom">4dp</dimen>
+    <dimen name="button4MarginTop">220dp</dimen>
+    <dimen name="resetButtonTextSize">18sp</dimen>
+    <dimen name="resetButtonMarginBottom">16dp</dimen>
+
+    <!--Landscape layout dimensions-->
+
+    <dimen name="team1IconMarginLeft">99dp</dimen>
+    <dimen name="team2IconMarginRight">99dp</dimen>
+    <dimen name="teamNameMargin">30dp</dimen>
+    <dimen name="cardViewSideMargin">60dp</dimen>
+    <dimen name="buttonMarginLeft">70dp</dimen>
+    <dimen name="buttonMarginRight">70dp</dimen>
+    <dimen name="rightButtonsMarginLeft">420dp</dimen>
+
+    <!--sw320dp layout dimensions-->
+    <dimen name="TextSize320">14sp</dimen>
+    <dimen name="TextSizeForScore320">40sp</dimen>
+    <dimen name="IconMarginSide320">50dp</dimen>
+    <dimen name="buttonMarginSide320">30dp</dimen>
+    <dimen name="button2MarginTop320">70dp</dimen>
+    <dimen name="button3MarginTop320">135dp</dimen>
+    <dimen name="buttonMarginBottom320">4dp</dimen>
+    <dimen name="TeamIconMarginTop320">50dp</dimen>
+    <dimen name="button4MarginTop320">200dp</dimen>
+    <dimen name="buttonMarginSide2320">180dp</dimen>
+    <dimen name="resetButtonTextSize320">12sp</dimen>
+    <dimen name="button1MarginTop320">10dp</dimen>
+    <dimen name="resetButtonMarginBottom320">16dp</dimen>
+    <dimen name="cardViewMarginBottom320">10dp</dimen>
+    <dimen name="cardViewMarginTop320">6dp</dimen>
+
+
+    <!--sw480dp layout dimensions-->
+    <dimen name="TextSizeForScore480">70sp</dimen>
+    <dimen name="IconMarginSide480">50dp</dimen>
+    <dimen name="cardViewMarginSide480">50dp</dimen>
+    <dimen name="teamScoreMarginTop">20dp</dimen>
+    <dimen name="teamScoreMarginBottom">40dp</dimen>
+    <dimen name="buttonMarginSide480">30dp</dimen>
+    <dimen name="rightButtonMarginRight">30dp</dimen>
+    <dimen name="rightButtonMarginLeft">280dp</dimen>
+    <dimen name="resetButtonMarginBottom480">25dp</dimen>
+    <dimen name="cardViewMarginBottom480">10dp</dimen>
+    <dimen name="cardViewMarginTop480">50dp</dimen>
+
+    <!--sw600dp layout dimensions-->
+    <dimen name="PrimaryTextSize600">30sp</dimen>
+    <dimen name="teamNamesMarginTop">30dp</dimen>
+    <dimen name="teamNamesMarginSide600">30dp</dimen>
+    <dimen name="cardViewMarginBottom600">100dp</dimen>
+    <dimen name="iconWidth">165dp</dimen>
+    <dimen name="iconHeight">172dp</dimen>
+    <dimen name="iconMarginSide">68dp</dimen>
+    <dimen name="iconMarginTop">87dp</dimen>
+    <dimen name="scoreMarginTop">50dp</dimen>
+    <dimen name="scoreTextSize600">90sp</dimen>
+    <dimen name="cardViewSideMargin600">70dp</dimen>
+    <dimen name="buttonWidth">96dp</dimen>
+    <dimen name="buttonHeight">96dp</dimen>
+    <dimen name="button2MarginTop600">120dp</dimen>
+    <dimen name="button3MarginTop600">220dp</dimen>
+    <dimen name="button4MarginTop600">320dp</dimen>
+    <dimen name="rightButtonMarginLeft600">330dp</dimen>
+    <dimen name="resetButtonMarginBottom600">30dp</dimen>
+    <dimen name="resetButtonTextSize600">24sp</dimen>
+    <dimen name="resetButtonPadding">30dp</dimen>
+
+</resources>

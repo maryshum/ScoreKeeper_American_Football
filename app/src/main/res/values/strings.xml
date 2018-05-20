@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="backgroundDescription">Football field</string>
+    <string name="team1_name">Team 1</string>
+    <string name="team2_name">Team 2</string>
+    <string name="team1_score">0</string>
+    <string name="team2_score">0</string>
+    <string name="button1">1</string>
+    <string name="team1_icon_description">A player in the blue helmet</string>
+    <string name="team2_icon_description">A player in the orange helmet</string>
+    <string name="score_button1_icon_description">Football with the number 1</string>
+    <string name="score_button2_icon_description">Football with the number 2</string>
+    <string name="score_button3_icon_description">Football with the number 3</string>
+    <string name="score_button4_icon_description">Football with the number 6</string>
+    <string name="reset_button">RESET</string>
+</resources>
+
